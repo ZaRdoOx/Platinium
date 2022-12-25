@@ -81,6 +81,7 @@ local gameId = {
     10967799786,
     4616652839,
     6986372023,
+    6918802270,
 }
  
 if table.find(gameId, game.PlaceId) or table.find(Shindo, game.PlaceId) then
